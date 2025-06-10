@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8729397-4305-44d4-a89b-e4c8cdcfb274" name="Changes" comment="basic without spring setup">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/guru/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/guru/model/Speaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/guru/repository/SpeakerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/guru/repository/StubSpeakerRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/guru/service/SpeakerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/guru/service/SpeakerServiceImpl.java" beforeDir="false" />
+    <list default="true" id="f8729397-4305-44d4-a89b-e4c8cdcfb274" name="Changes" comment="spring enabled with AppConfig">
+      <change afterPath="$PROJECT_DIR$/conference-java/src/main/java/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +23,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gurucharan2206"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gurucharan2206&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gurucharan2206/conference.git",
-    "accountId": "a68ea175-7115-46f8-82a2-ef009ffae54d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gurucharan2206/conference.git&quot;,
+    &quot;accountId&quot;: &quot;a68ea175-7115-46f8-82a2-ef009ffae54d&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/pluralsight/guru/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2yJFVwVcKcsTMEs1M1DdLcIpDuq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,7 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/SpringPS/conference/conference"
+    "last_opened_file_path": "G:/SpringPS/conference"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -90,7 +79,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749546357225</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="conference-java added">
+      <option name="closed" value="true" />
+      <created>1749549202094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749549202094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="spring enabled with AppConfig">
+      <option name="closed" value="true" />
+      <created>1749549225675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749549225675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic without spring setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic without spring setup" />
+    <MESSAGE value="conference-java added" />
+    <MESSAGE value="spring enabled with AppConfig" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring enabled with AppConfig" />
   </component>
 </project>
